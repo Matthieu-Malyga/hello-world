@@ -9,3 +9,5 @@ Mon objectif est d'apporter ma contribution sur Terre grâce à HTML/CSS/Javascr
 Donc j'apprends !
 
 Voici quelques modifications.
+
+Ajout d'une ligne dans la nouvelle branche.
