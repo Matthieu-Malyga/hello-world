@@ -12,5 +12,4 @@ Voici quelques modifications.
 
 Ajout d'une ligne dans la nouvelle branche.
 
-Ligne 15 de la branche Master
-
+Ligne 15 de la branche Master et puis c'est tout
